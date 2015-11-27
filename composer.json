@@ -1,0 +1,13 @@
+{
+    "name": "noraesae/perfect-scrollbar",
+    "description": "Minimalistic but perfect custom scrollbar plugin",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Hyunje Alex Jun",
+            "email": "me@noraesae.net"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
